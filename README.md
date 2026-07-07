@@ -158,8 +158,7 @@ lenovo-ai-internship-capstone-project-july-2026/
 
 ## 👨‍💻 Author
 
-**Jai Bhushan Rane**
-
+**Jai Bhushan Rane** **Generative AI & Agentic Systems Engineering Intern** at **Lenovo LEAP** 
 🔗 GitHub: https://github.com/ranejai954
 
 This project was developed as part of the **Lenovo LEAP Internship Program 2026**.
