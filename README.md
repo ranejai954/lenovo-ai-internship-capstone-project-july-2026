@@ -152,7 +152,6 @@ lenovo-ai-internship-capstone-project-july-2026/
 ├── Screenshot - 1.png
 ├── Screenshot - 2.png
 ├── Screenshot - 3.png
-└── Assets/
 ```
 
 ---
