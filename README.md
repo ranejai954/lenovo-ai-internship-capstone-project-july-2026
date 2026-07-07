@@ -162,6 +162,8 @@ lenovo-ai-internship-capstone-project-july-2026/
 
 🔗 GitHub: https://github.com/ranejai954
 
+🔗 Linkedin: https://www.linkedin.com/in/jai-rane-62ba58352 
+
 This project was developed as part of the **Lenovo LEAP Internship Program 2026**.
 
 ---
