@@ -164,6 +164,8 @@ lenovo-ai-internship-capstone-project-july-2026/
 
 🔗 Linkedin: https://www.linkedin.com/in/jai-rane-62ba58352 
 
+🔗 Deployed Website: https://huggingface.co/spaces/jairane86/voltsaver-agentic-ai
+
 This project was developed as part of the **Lenovo LEAP Internship Program 2026**.
 
 ---
