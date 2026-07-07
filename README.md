@@ -105,7 +105,7 @@ streamlit run app.py
 
 ![Analysis](Screenshot%20-%202.png)
 
-### AI Recommendations
+### Report PDF Download
 
 ![Recommendations](Screenshot%20-%203.png)
 
