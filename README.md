@@ -166,6 +166,10 @@ lenovo-ai-internship-capstone-project-july-2026/
 
 🔗 Deployed Website: https://huggingface.co/spaces/jairane86/voltsaver-agentic-ai
 
+🔗 Lenovo LEAP Milestone 8 GitHub Repo: https://github.com/ranejai954/edubuddy-ai-chatbot
+
+🔗 Lenovo LEAP Milestone 5 GitHub Repo: https://github.com/ranejai954/lenovo-ai-internship-prerequisite-milestone-5-assignment-chatbot
+
 This project was developed as part of the **Lenovo LEAP Internship Program 2026**.
 
 ---
